@@ -1,24 +1,36 @@
  
-  # tester
+  # Readme
 
   ## Description
   
-  to test things
+  to automatically generate a readme
 
   ## Installation
 
-  type things
+  in file, type node index.js and answer the prompts in integrated terminal
 
   ## Usage
 
-  type thingser
-
-  ## Credits
-
-  me
+  To automatically generate a Readme
 
   ## License
 
-  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
+  
+
+  ## Contributing
+
+  Diarmuid Murphy
+
+  ## Test
+
+  What kind of test goes here
+
+  ## Questions
+
+  View my work at my <a href="github.com/Espadasworn">Github</a> or contact me at myfake@yahoo.com
+
+
+
+
 
 

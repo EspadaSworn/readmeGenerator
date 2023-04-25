@@ -33,7 +33,22 @@ const questions = [
     {
         type: 'input',
         name: 'credits',
-        message: 'List your collaborators with '
+        message: 'List your collaborators to give credit '
+    },
+    {
+        type: 'input',
+        name: 'tests',
+        message: 'the Test goes here'
+    },
+    {
+        type: 'input',
+        name: 'questions',
+        message: 'What is your github username? '
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'What is the best email to reach you? '
     },
 ];
 

@@ -33,13 +33,25 @@ function generateMarkdown(data) {
 
   ${data.usage}
 
-  ## Credits
-
-  ${data.credits}
-
   ## License
 
   ${renderLicenseBadge(data.license)}
+
+  ## Contributing
+
+  ${data.credits}
+
+  ## Test
+
+  ${data.tests}
+
+  ## Questions
+
+  View my work at my <a href="github.com/${data.questions}">Github</a> or contact me at ${data.email}
+
+
+
+
 
 
 `;
